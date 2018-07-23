@@ -3,17 +3,16 @@
 
 **1.首先，点击APP图标，出现如下系统欢迎界面。**
 
-![14_](https://user-images.githubusercontent.com/18030737/31763964-7613c25a-b4f2-11e7-86d1-df71c71ee5d1.jpg)
+<img width="323" height="575" src="https://user-images.githubusercontent.com/18030737/31763964-7613c25a-b4f2-11e7-86d1-df71c71ee5d1.jpg"/>
 
 
 
 **2. 进入系统后，可以左右滑动，查看整体模块界面，分别是一键求救页面、位置服务页面、健康监测页面和智能工具页面。**
 
-![15_](https://user-images.githubusercontent.com/18030737/31764001-8ea33a80-b4f2-11e7-9f0e-d187c5c65c69.jpg)
-![29_](https://user-images.githubusercontent.com/18030737/31851559-b2c4f062-b69a-11e7-9f40-3832e2f3bb69.jpg)
-![17_](https://user-images.githubusercontent.com/18030737/31764009-8f2e61b4-b4f2-11e7-8543-fe708ba20391.jpg)
-![18_](https://user-images.githubusercontent.com/18030737/31764011-8f60bc54-b4f2-11e7-82a0-f3842c774209.jpg)
-
+<img width="323" height="575" src="https://user-images.githubusercontent.com/18030737/31764001-8ea33a80-b4f2-11e7-9f0e-d187c5c65c69.jpg"/>
+<img width="323" height="575" src="https://user-images.githubusercontent.com/18030737/31851559-b2c4f062-b69a-11e7-9f40-3832e2f3bb69.jpg"/>
+<img width="323" height="575" src="https://user-images.githubusercontent.com/18030737/31764009-8f2e61b4-b4f2-11e7-8543-fe708ba20391.jpg"/>
+<img width="323" height="575" src="https://user-images.githubusercontent.com/18030737/31764011-8f60bc54-b4f2-11e7-82a0-f3842c774209.jpg"/>
 
 
 **3.点击一键求救模块中摔倒识别按钮，系统会对用户手机当前屏幕向右、向上、向外加速度进行监测，当达到系统设定的摔倒加速度值时，系统自动跳转到识别求救页面，供用户自行选择求救。**
